@@ -9,7 +9,7 @@ import math package
 input number 1
 ## Step 3: 
 input number 2
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](/formula.png)
 ### Step 4:
 formula : distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 ### Step 5:
